@@ -1,0 +1,11 @@
+trained_upto,evaluated_on,power_mean
+summer,summer,72.67736100860304
+winter,summer,72.67736100860304
+winter,winter,41.52823694045391
+rainy,summer,72.67736100860304
+rainy,winter,41.52823694045391
+rainy,rainy,47.31789094390656
+spring,summer,109.01604151290456
+spring,winter,62.292355410680855
+spring,rainy,70.97683641585981
+spring,spring,62.292355410680855
