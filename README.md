@@ -83,6 +83,10 @@ continual-rl-otec-control
 ├── figures/
 │   └── generated plots
 │
+├── docs/
+│   ├── otec_block_diagram.png
+│   └── system_architecture.png
+│
 ├── requirements.txt
 └── README.md
 ```
