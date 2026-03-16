@@ -136,6 +136,7 @@ python analysis/compute_forgetting.py
 **Vamsi Krishna Gondu**
 
 B.Tech Computer Science and Engineering (AI & Intelligent Process Automation)
+
 KL University, India
 
 ---
